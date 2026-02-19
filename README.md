@@ -1,5 +1,3 @@
-# World-Happiness-Analysis-Python-BI
-End-to-end data analysis project using Python for ETL and ML, with Power BI visualization.
 # 🌍 World Happiness Report Analysis (2015-2024)
 
 ## 📌 אודות הפרויקט
@@ -8,7 +6,7 @@ End-to-end data analysis project using Python for ETL and ML, with Power BI visu
 ## 🚀 מה הפרויקט כולל?
 - **ETL & Data Cleaning:** איחוד 10 קבצי מקור שנתיים למסד נתונים אחד נקי ואחיד תוך טיפול בערכים חסרים וכפילויות.
 - **Machine Learning:** - שימוש ב-**K-Means Clustering** לסיווג מדינות לקבוצות איכות.
-  - בניית מודל **Random Forest** לחיזוי מדדי אושר עתידיים.
+- **Random Forest** מודל לחיזוי מדדי אושר עתידיים.
 - **Data Visualization:** בניית דשבורד אינטראקטיבי ב-Power BI המציג מגמות גלובליות וניתוח גורמים משפיעים (GDP, Social Support וכו').
 
 ## 📂 מבנה התיקיות
